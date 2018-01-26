@@ -13,8 +13,28 @@
      android:layout_width="match_parent"
      android:layout_height="wrap_content"
      android:orientation="horizontal"
+     android:gravity="center"
      android:layout_gravity="center">
 
+  <android.support.v7.widget.CardView
+      android:layout_width="160dp"
+      android:layout_height="190dp"
+      android:layout_margin="10dp"
+      >
+
+<LinearLayout
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+ <ImageView
+     android:layout_width="64dp"
+     android:layout_height="64dp"
+     android:background="@drawable/circlebackgroundpurple"/>
+
+</LinearLayout>
+
+  </android.support.v7.widget.CardView>
 
  </LinearLayout>
 
