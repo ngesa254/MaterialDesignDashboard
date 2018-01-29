@@ -2,13 +2,15 @@
 
 Material Design Dashboard Tutorial 📟 📚 🎧
 
-# Support
+Support
+-------
 
 - Found this tutorial useful ❤️? Support by clicking the ⭐️ button on the upper right of this page. ✌️
 
 - Notice anything else missing? File an issue 😄
 
-# Get in touch - Let's become friends
+Get in touch - Let's become friends
+----------------------------------
 
 Please feel free to contact me if you have any questions, ideas or even if you just want to say hi. I’m up for talking, exchange ideas, collaborations or consults. You can connect with me through any of the avenues listed below:
 - [Twitter](https://twitter.com/Ngesa254)
